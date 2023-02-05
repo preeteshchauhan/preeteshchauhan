@@ -6,11 +6,10 @@
 
 - 🔭 I’m currently working on **A Smart Voice Assistant Project**
 
-- 🌱 I’m currently learning **Html and Css**
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Html, Css and Python**
+
 
 - 👯 I’m looking to collaborate on **other open source projects too**
-- 👯 I’m looking to collaborate on **other open source projects**
 
 - 📫 How to reach me **preeteshchauhan28@gmail.com**
 
