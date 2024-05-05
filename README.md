@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A Machine Learning Project**
 
-- 🌱 I’m currently learning **Full stack Web Developmwnr**
+- 🌱 I’m currently learning **Full stack Web Development**
 
 
 - 👯 I’m looking to collaborate on **other open source projects too**
