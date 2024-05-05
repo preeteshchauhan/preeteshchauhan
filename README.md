@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Preetesh Chauhan</h1>
-<h3 align="center">A Web developer Enthusiastic.</h3>
+<h3 align="center">A Web developer , Game Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preeteshchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="preeteshchauhan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeteshchauhan" alt="preeteshchauhan" /></a> </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **A Smart Voice Assistant Project**
+- 🔭 I’m currently working on **A Machine Learning Project**
 
-- 🌱 I’m currently learning **Html, Css and Python**
+- 🌱 I’m currently learning **Full stack Web Developmwnr**
 
 
 - 👯 I’m looking to collaborate on **other open source projects too**
 
-- 📫 How to reach me **preeteshchauhan28@gmail.com**
+- 📫 How to reach me **preeteshc28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
