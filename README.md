@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeteshchauhan" alt="preeteshchauhan" /></a> </p>
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **A Machine Learning Project**
+- 🔭 I’m currently working on **A MEAN STACK Project**
 
 - 🌱 I’m currently learning **Full stack Web Development**
 
